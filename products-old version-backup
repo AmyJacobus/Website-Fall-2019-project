@@ -1,0 +1,75 @@
+<div class="products">
+<h1>flower</h1>
+<img src="img/img-products/basket.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>flower</h1><img src="img/img-products/basket.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>flower</h1>
+<img src="img/img-products/basket.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>flower</h1>
+<img src="img/img-products/basket.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<h1 class="heading-products">HEADER TEXT HERE- GIFTS</h1> <!---resize pictures- make them all the same size!-->
+
+<div class="products">
+<h1>gifts</h1>
+<img src="img/img-products/gifts.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>gifts</h1>
+<img src="img/img-products/gifts.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>gifts</h1>
+<img src="img/img-products/gifts.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>giftsr</h1>
+<img src="img/img-products/gifts.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<h1 class="heading-products">HEADER TEXT HERE- COSTUMIZED</h1><!---resize pictures- make them all the same size!-->
+
+<div class="products">
+<h1>Gifts</h1>
+<img src="img/img-products/costumized.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>Gifts</h1>
+<img src="img/img-products/costumized.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+<div class="products">
+<h1>Gifts</h1>
+<img src="img/img-products/costumized.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+
+</div><div class="products">
+<h1>Gifts</h1>
+<img src="img/img-products/costumized.jpg" alt="flowers1"> <!--Price in photo-->
+<p>Content</p>
+</div>
+
+-->
